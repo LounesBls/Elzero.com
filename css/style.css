@@ -270,17 +270,6 @@ a {
     flex: 1;
 }
 
-/* .header .mega-menu .links {
-    position: relative;
-} */
-
-/* .header .mega-menu .links::before {
-    content: "";
-    background-color: #fafafa;
-    width: 0;
-    height: 100%;
-} */
-
 .header .mega-menu .links ul li {
     padding: 15px;
     border-bottom: 1px solid #e9e6e6;
@@ -1886,6 +1875,7 @@ a {
     background: #fff;
     font-weight: 500;
     text-transform: capitalize;
+    margin-top: 10px;
 }
 
 /* End Videos */
