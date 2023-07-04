@@ -2125,6 +2125,7 @@ a {
     outline: none;
     height: 200px;
     caret-color: var(--main-clr);
+    text-transform: capitalize;
 }
 
 @media (max-width: 351px) {
